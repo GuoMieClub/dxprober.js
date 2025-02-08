@@ -1,8 +1,8 @@
 var body = $response.body;
 var url = $request.url;
 
-var u = "USERNAME";
-var p = "PASSWORD";
+var u = "GuoMie";
+var p = "Grand425X";
 
 if (body) {
   body = body.replace(
