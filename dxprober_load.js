@@ -12,7 +12,7 @@ if (body) {
       '";var p = "' +
       p +
       '";</script>' +
-      '<script src="https://github.com/realZnS/dxprober.js/raw/main/dxprober.js"></script>'
+      '<script src="https://github.com/GuoMieClub/dxprober.js/raw/main/dxprober.js"></script>'
   );
   $done({
     body,
